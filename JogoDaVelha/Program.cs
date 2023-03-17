@@ -7,7 +7,7 @@ namespace JogoDaVelha
     { 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            new JogoDaVelha().Iniciar();
         }
     }
 }
