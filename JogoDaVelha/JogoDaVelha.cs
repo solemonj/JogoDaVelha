@@ -8,6 +8,7 @@ namespace JogoDaVelha
 {
     internal class JogoDaVelha
     {
+
         private bool fimDeJogo;
         private char[] posicoes;
         private char vez;
